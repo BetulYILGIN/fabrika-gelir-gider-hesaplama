@@ -1,0 +1,1 @@
+# fabrika-gelir-gider-hesaplama
